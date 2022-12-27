@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Card Application</string>
+    <string name="try_again">Update</string>
+    <string name="loading">Loading…</string>
+    <string name="go_back">Go back</string>
+    <string name="card_info">Card Information</string>
+    <string name="scheme_or_network">SCHEME/NETWORK</string>
+    <string name="brand">BRAND</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="length">LENGTH</string>
+    <string name="luhn">LUHN</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="type">TYPE</string>
+    <string name="prepaid">PREPAID</string>
+    <string name="country">COUNTRY</string>
+    <string name="longitude">longitude</string>
+    <string name="latitude">latitude</string>
+    <string name="bank">BANK</string>
+    <string name="empty_card_number">Please enter the card number on the previous screen</string>
+    <string name="valid_card_notification">Enter a valid card number. Minimum length - 8</string>
+    <string name="submit">Submit</string>
+    <string name="card_number_enter">Enter the card number</string>
+    <string name="history">Request history</string>
+    <string name="close">Close</string>
+    <string name="empty_history">History is Empty</string>
+</resources>
